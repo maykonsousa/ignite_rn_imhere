@@ -13,6 +13,8 @@
 
 > Este é um aplicativo mobile simples usando React Native. faz parte do módulo 01 do programa de aceleração Ignite da [Rocketseat](http://app.ropcketseat.com.br)
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FAXOlKzH6ZUmKXWqfQXquhe%2FChapter-I---Im-Here%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3D2D2quWd8YnSN11KK-1" allowfullscreen></iframe>
+
 ## Detalhes do aplicativo
 
 - Trata-se de um aplicativo simples que simula a tela de uma lista de presença para um evento onde podem ser adicionados nome de participantes a medida que o participante chega
@@ -50,7 +52,8 @@ npm run android
 ## 🌐 Links úteis
 [NodeJS](https://nodejs.org/en/download)  
 [Expo](https://expo.dev/)  
-[Android Studio](https://developer.android.com/studio/install?hl=pt-br)
+[Android Studio](https://developer.android.com/studio/install?hl=pt-br)  
+[Figma do projeto](https://www.figma.com/file/AXOlKzH6ZUmKXWqfQXquhe/Chapter-I---Im-Here?type=design&node-id=0%3A1&mode=design&t=2D2quWd8YnSN11KK-1)
 
 
 ## 🚀 Maykon Sousa
