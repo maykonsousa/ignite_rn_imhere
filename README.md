@@ -13,7 +13,7 @@
 
 > Este é um aplicativo mobile simples usando React Native. faz parte do módulo 01 do programa de aceleração Ignite da [Rocketseat](http://app.ropcketseat.com.br)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FAXOlKzH6ZUmKXWqfQXquhe%2FChapter-I---Im-Here%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3D2D2quWd8YnSN11KK-1" allowfullscreen></iframe>
+<img src="./assets/img.png"/>
 
 ## Detalhes do aplicativo
 
@@ -56,7 +56,7 @@ npm run android
 [Figma do projeto](https://www.figma.com/file/AXOlKzH6ZUmKXWqfQXquhe/Chapter-I---Im-Here?type=design&node-id=0%3A1&mode=design&t=2D2quWd8YnSN11KK-1)
 
 
-## 🚀 Maykon Sousa
+## 🧑‍💻 Maykon Sousa
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maykonsousa)
 [<img src=" https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://gthub.com/maykonsousapb)
